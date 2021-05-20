@@ -1,2 +1,4 @@
 # EGIOC_Project
-My first game
+## Dumitrescu Bogdan-Doru
+### CTI-RO 3 2.2
+#### My first game
